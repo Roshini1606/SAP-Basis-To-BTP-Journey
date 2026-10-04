@@ -7,7 +7,8 @@ SAP follows a 3-tier architecture consisting of:
 1. Presentation Layer
 2. Application Layer
 3. Database Layer
- 
+
+ 
 Presentation Layer:
 -------------------
  
