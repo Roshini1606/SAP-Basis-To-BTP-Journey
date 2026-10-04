@@ -9,7 +9,7 @@ Background - executes the schedule jobs
 
 Update - updates the database records
 
-Enqueue - manages the locks
+Enqueue - manages the locks to prevent data inconsistency
 
 Spool - manages the print request
 
