@@ -1,4 +1,4 @@
-SAP work process are the specailized operating system process which executes user requests 
+SAP work process are the specialized operating system process which executes user requests 
 and system activities within sap application server.
 
 different work process performs different tasks
